@@ -45,7 +45,7 @@ h1,
 }
 
 div.logo {
-  background-image: url(../img/logo.webp);
+/*  background-image: url(../img/logo.webp);*/
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 30%;
@@ -223,7 +223,7 @@ div.logo {
 }
 
 .container .right-wrap .icon-list .icon a:hover {
-  color: #c2263b;
+  color: #c27926;
 }
 
 .right-wrap,
